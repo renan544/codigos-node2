@@ -1,0 +1,6 @@
+console.log("-----DADOS CADATRAIS-----")
+console.log("Nome : Renan Rodrigues dos santos")
+console.log("Data Nascimento : 29/11/2005")
+console.log("Formação : Analise e Desenvolvimento de sistemas")
+console.log("Email: renan.rrs.santos@gmail.com")
+console.log("Numero: (11)979756804")

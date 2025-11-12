@@ -1,0 +1,1 @@
+console.log("Está muito fácil a vida do meu aluno, by Jyovanny")
